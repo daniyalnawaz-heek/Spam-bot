@@ -1,5 +1,5 @@
 # Spam-bot
-A simple spam bot to annoy anyone.
+A simple spam bot to be a exasperating individual.
 
 
 #importing pyautogui and time module
